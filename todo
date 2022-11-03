@@ -1,0 +1,7 @@
+Known Bugs
+->govt dashboard update after transaction
+
+Major changes
+-> remove api and implement government login onto smartcontract
+-> handelling invalid form details
+-> add dynamic iage size support
